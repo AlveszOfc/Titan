@@ -1,4 +1,3 @@
-
 local Gec = GetEntityCoords
 local VehiclesInfo = {}
 local menuX, menuY = 0.5, 0.5
@@ -8274,5 +8273,6 @@ SetTimeout(2000, function()
     end
 
     -- CreateRuntimeTextureFromDuiHandle(CreateRuntimeTxd('adwdhajwgawd'), 'adwdhajwgawd', GetDuiHandle(CreateDui('https://iluminate.vercel.app/site.html?nome='..NOME, 1000, 1000)))
+
 
 end)
